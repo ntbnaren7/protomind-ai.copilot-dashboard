@@ -1,0 +1,33 @@
+/* Base */
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#0d1117;color:#e6edf3}
+.text-accent{color:#00d8ff!important}
+.card-elev{background:#161b22;border:1px solid #2a2f36;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,.45)}
+h1,h2{color:#00d8ff}
+
+/* Status styles */
+.status-running{color:#00ff9d}
+.status-stopped{color:#ff5252}
+
+/* Video */
+.video-container{border:1px solid #00d8ff;border-radius:10px;overflow:hidden}
+.video-feed{display:block;width:100%;height:auto}
+
+/* KPI tiles */
+.kpi-card{background:#161b22;border:1px solid #2a2f36;border-radius:10px;text-align:center;padding:10px}
+.kpi-value{font-size:1.6rem;font-weight:700}
+.kpi-label{font-size:.82rem;color:#9aa3ab}
+
+/* Chart compactness */
+.card-elev canvas{height:180px!important;max-height:180px;min-height:140px;background:#0f141a;border-radius:8px;padding:6px}
+.card-elev.p-3,.card-elev.p-4{padding:14px!important}
+.card-elev h2{font-size:1rem;margin-bottom:8px}
+
+/* Stress banner */
+.alert-danger{background:#ff3d3d;color:#fff;border:none;border-radius:10px}
+
+/* Buttons */
+.btn-warning{background:#ffb800;border:none}
+.btn-warning:hover{background:#ff9900}
+
+/* Recommendation text */
+.rec-text{font-size:1.05rem;color:#cdefff}
