@@ -1,4 +1,4 @@
-# **SentinelWorks – Industry 5.0 Human–Machine Collaboration Prototype**
+# **ProtoMind AI-Copilot – Industry 5.0 Human–Machine Collaboration Prototype**
 
 **SentinelWorks** is a simulated Industry 5.0 system demonstrating how smart sensors, AI-driven monitoring, and real-time human–machine collaboration can optimize industrial processes.
 
